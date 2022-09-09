@@ -1,0 +1,10 @@
+#temi {
+	height: 50vh;
+	background-color: blue;
+	color: black;
+	text-align: center;
+}
+
+#temi > h1{
+	padding-top: 150px;
+}
